@@ -10,6 +10,13 @@
               <p>Remove the elephant</p>
           </div>
       </div>
+      <div class="item item-video2">
+        <video poster="" id="vid2vid_video2" playsinline autoplay muted loop height="90%" src="https://github.com/user-attachments/assets/9fd882b2-f849-4b86-83de-4af109bcc8df">
+        </video>
+        <div class="video-caption">
+              <p>Remove the car</p>
+        </div>
+      </div>
     </div>
   </div>
 </div>
